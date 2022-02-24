@@ -2,6 +2,7 @@
 Paper reading list in representation processing, with special emphasis on **self/semi-supervised learning**, **information theory** and relevant topics. This repo will keep updating 🤗 ...
 
 - [Information Theory and Its Application](#Information-Theory-and-Its-Application)
+- [Data Augmentation](#Data-augmentation)
 - [Self-supervised Learning](#Self-supervised-learning)
   - [Contrastive Learning](#Contrastive-Learning)
 
