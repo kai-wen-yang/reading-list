@@ -1,5 +1,5 @@
 ﻿# Paper-Reading
-Paper reading list in representation processing, with special emphasis on **self/semi-supervised learning**, **adversarial robustness**, **generalization ability**, **information theory** and relevant topics. This repo will keep updating 🤗 ...
+Paper reading list in representation learning, with special emphasis on **self/semi-supervised learning**, **adversarial robustness**, **generalization ability**, **information theory** and relevant topics. This repo will keep updating 🤗 ...
 
 - [Information Theory and Its Application](#Information-Theory-and-Its-Application)
 - [Data Augmentation](#Data-augmentation)
