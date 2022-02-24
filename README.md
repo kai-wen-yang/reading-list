@@ -14,4 +14,4 @@ Paper reading list in representation processing, with special emphasis on **self
 
 ## Self-supervised Learning
 ### Contrastive Learning
-* **[1]**: "LEARNING WEAKLY-SUPERVISED CONTRASTIVE REPRESENTATIONS". ICLR(2022) [[PDF]](https://openreview.net/pdf?id=MSwEFaztwkE)"
+* **[1]**: "LEARNING WEAKLY-SUPERVISED CONTRASTIVE REPRESENTATIONS". ICLR(2022) [[PDF]](https://openreview.net/pdf?id=MSwEFaztwkE)
