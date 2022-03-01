@@ -7,6 +7,7 @@ Paper reading list in representation learning, with special emphasis on **self/s
   - [Contrastive Learning](#Contrastive-Learning)
   - [Theory](#Theory)
 - [Adversarial Learning](#Adversarial-Learning)
+- [Semi-supervised Learning](#Semi-supervised-learning)
 
 
 ***
@@ -27,3 +28,8 @@ Paper reading list in representation learning, with special emphasis on **self/s
 ## Adversarial Learning
 * **[1]**: "CAT: Customized Adversarial Training for Improved Robustness". Arxiv(2020) [[PDF]](https://arxiv.org/pdf/2002.06789.pdf)
 * **[2]**: "Perceptual Adversarial Robustness: Defense Against Unseen Threat Models". ICLR(2021) [[PDF]](https://arxiv.org/pdf/2006.12655.pdf)
+
+## Semi-supervised Learning
+* **[1]**: "Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning". TPAMI(2017) [[PDF]](https://arxiv.org/pdf/1704.03976.pdf)
+
+
