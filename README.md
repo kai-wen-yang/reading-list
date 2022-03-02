@@ -20,6 +20,7 @@ Paper reading list in representation learning, with special emphasis on **self/s
 * **[2]**: "Weakly Supervised Contrastive Learning". ICCV(2021)[[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Weakly_Supervised_Contrastive_Learning_ICCV_2021_paper.pdf)
 * **[3]**: "Representation Learning via Invariant Causal Mechanisms". ICLR(2021) [[PDF]](https://arxiv.org/pdf/2010.07922.pdf)
 * **[4]**: "REPRESENTATION LEARNING VIA INVARIANT CAUSAL MECHANISMS". ICLR(2021) [[PDF]](https://arxiv.org/pdf/2010.07922.pdf)
+* **[5]**: "Contrastive Learning Inverts the Data Generating Process". ICML(2021) [[PDF]](https://arxiv.org/pdf/2102.08850.pdf)
 ## Data Augmentation
 
 ## Information Theory and Its Application
