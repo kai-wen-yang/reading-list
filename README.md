@@ -23,6 +23,7 @@ Paper reading list in representation learning, with special emphasis on **self/s
 * **[5]**: "Contrastive Learning Inverts the Data Generating Process". ICML(2021) [[PDF]](https://arxiv.org/pdf/2102.08850.pdf)
 ## Data Augmentation
 * **[1]**: "Estimating Training Data Influence by Tracing Gradient Descent". NeurIPS(2020) [[PDF]](https://arxiv.org/pdf/2002.08484.pdf)
+* **[2]**: "Understanding the Generalization Benefit of Model Invariance from a Data Perspective". NeurIPS(2021) [[PDF]](https://proceedings.neurips.cc/paper/2021/file/2287c6b8641dd2d21ab050eb9ff795f3-Paper.pdf)
 
 ## Information Theory and Its Application
 * **[1]**: "LEARNING WEAKLY-SUPERVISED CONTRASTIVE REPRESENTATIONS". ICLR(2022) [[PDF]](https://openreview.net/pdf?id=MSwEFaztwkE)
