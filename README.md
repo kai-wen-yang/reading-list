@@ -22,6 +22,7 @@ Paper reading list in representation learning, with special emphasis on **self/s
 * **[4]**: "REPRESENTATION LEARNING VIA INVARIANT CAUSAL MECHANISMS". ICLR(2021) [[PDF]](https://arxiv.org/pdf/2010.07922.pdf)
 * **[5]**: "Contrastive Learning Inverts the Data Generating Process". ICML(2021) [[PDF]](https://arxiv.org/pdf/2102.08850.pdf)
 ## Data Augmentation
+* **[1]**: "Estimating Training Data Influence by Tracing Gradient Descent". NeurIPS(2020) [[PDF]](https://arxiv.org/pdf/2002.08484.pdf)
 
 ## Information Theory and Its Application
 * **[1]**: "LEARNING WEAKLY-SUPERVISED CONTRASTIVE REPRESENTATIONS". ICLR(2022) [[PDF]](https://openreview.net/pdf?id=MSwEFaztwkE)
