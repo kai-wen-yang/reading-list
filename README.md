@@ -34,5 +34,8 @@ Paper reading list in representation learning, with special emphasis on **self/s
 
 ## Semi-supervised Learning
 * **[1]**: "Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning". TPAMI(2017) [[PDF]](https://arxiv.org/pdf/1704.03976.pdf)
+* **[2]**: "Time-Consistent Self-Supervision for Semi-Supervised Learning". ICML(2020) [[PDF]](http://proceedings.mlr.press/v119/zhou20d/zhou20d.pdf)
+* **[3]**: "FlexMatch: Boosting Semi-Supervised Learning
+with Curriculum Pseudo Labeling". NeurIPS(2021) [[PDF]](https://arxiv.org/pdf/2110.08263.pdf)
 
 
