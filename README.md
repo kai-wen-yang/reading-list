@@ -15,6 +15,8 @@ Paper reading list in representation learning, with special emphasis on **self/s
 ## Self-supervised Learning
 ### Theory
 * **[1]**: "A Theoretical Analysis of Contrastive Unsupervised Representation Learning". ICML(2019) [[PDF]](http://proceedings.mlr.press/v97/saunshi19a/saunshi19a.pdf)
+* **[2]**: "THEORETICAL ANALYSIS OF SELF-TRAINING WITH DEEP NETWORKS ON UNLABELED DATA". ICLR(2021)) [[PDF]](https://openreview.net/pdf?id=rC8sJ4i6kaH)
+
 ### Contrastive Learning
 * **[1]**: "LEARNING WEAKLY-SUPERVISED CONTRASTIVE REPRESENTATIONS". ICLR(2022) [[PDF]](https://openreview.net/pdf?id=MSwEFaztwkE)
 * **[2]**: "Weakly Supervised Contrastive Learning". ICCV(2021)[[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Weakly_Supervised_Contrastive_Learning_ICCV_2021_paper.pdf)
