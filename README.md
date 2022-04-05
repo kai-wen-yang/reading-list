@@ -29,6 +29,7 @@ Paper reading list in representation learning, with special emphasis on **self/s
 
 ## Information Theory and Its Application
 * **[1]**: "LEARNING WEAKLY-SUPERVISED CONTRASTIVE REPRESENTATIONS". ICLR(2022) [[PDF]](https://openreview.net/pdf?id=MSwEFaztwkE)
+* **[2]**: "CONTRASTIVE REPRESENTATION DISTILLATION". ICLR(2020) [[PDF]](https://arxiv.org/pdf/1910.10699.pdf)
 
 ## Adversarial Learning
 * **[1]**: "CAT: Customized Adversarial Training for Improved Robustness". Arxiv(2020) [[PDF]](https://arxiv.org/pdf/2002.06789.pdf)
